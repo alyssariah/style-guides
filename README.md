@@ -1,6 +1,6 @@
 # My Style Guides
 
-A style guide is a set of standards about how code should be written and organized. It provides readable code, clear guidelines , and naming conventions. With a style guide, development become more efficient, scalable, and professional.
+A style guide is a set of standards about how code should be written and organized. It provides readable code, clear guidelines, naming conventions, ect. With a style guide, development becomes more efficient, scalable, and professional.
 
 To ensure code consistency and maintainability within my projects, I am using the standards in the following guides:
 - [HTML Guide](HTML/README.md)
@@ -10,7 +10,7 @@ To ensure code consistency and maintainability within my projects, I am using th
   
 ## Motivation
 
-To write clean and consistent code, a style guide is a **MUST**. No two developers code the exact same way and even the same developer may not write the code the same way. These guides hellp a developer get up to speed on code quicker and easier.
+To write clean and consistent code, a style guide is a **MUST**. No two developers code the exact same way and even the same developer may not write the code the same way. These guides will help a developer get up to speed on code quicker and easier.
 
 > "All code in any code-base should look like a single person typed it, no matter how many people contributed."
 

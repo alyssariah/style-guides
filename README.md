@@ -3,10 +3,10 @@
 A style guide is a set of standards about how code should be written and organized. It provides readable code, clear guidelines , and naming conventions. With a style guide, development become more efficient, scalable, and professional.
 
 To ensure code consistency and maintainability within my projects, I am using the standards in the following guides:
-- [Sass Guide](Sass/README.md)
 - [HTML Guide](HTML/README.md)
 - [Javascript Guide](Javascript/README.md)
 - [React Guide](React/README.md)
+- [Sass Guide](Sass/README.md)
   
 ## Motivation
 
